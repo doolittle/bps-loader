@@ -1,0 +1,7 @@
+.actionscriptProperties
+.project
+.settings/*
+BetweenPageAndScreen-Loader.iml
+bin-debug/*
+bin-release/*
+html-template/*
